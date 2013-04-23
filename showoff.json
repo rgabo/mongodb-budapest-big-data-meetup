@@ -1,0 +1,10 @@
+{ 
+  "name": "MongoDB Aggregation Framework",
+  "description": "Budapest Big Data Meetup - 4/23/2013",
+  "sections":
+    [
+      {"section":"intro"},
+      {"section":"slides"}
+    ]
+}
+
